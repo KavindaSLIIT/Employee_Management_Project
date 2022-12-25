@@ -1,0 +1,22 @@
+.container{
+
+width: 100vh;
+height: 100vw;
+display:flex;
+align-items: center;
+justify-content: center;
+
+
+
+}
+.green_button{
+    border: none;
+    padding: 20px;
+    outline: auto;
+    background-color: aqua;
+    border-radius: 3px;
+    color: bisque;
+    font-weight: bold;
+    font-size: 14px;
+
+}
